@@ -9,6 +9,7 @@ Here are some of my goals :
 - land a job in web dev.
 - learn how to play drums.
 - learn how to draw.  
+  
 Here are some of my dreams :  
 - A peacfull world.
 - with free acces to knowledge.
