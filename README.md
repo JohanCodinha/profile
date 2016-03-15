@@ -4,7 +4,7 @@ profile in markDown
 -------------------
 
 Full stack hospitality worker undergoing a carrer change at **GA_Melbourne**  
-![Valid XHTML] (http://img2.thejournal.ie/inline/2434310/original/?width=400&version=2434310).  
+![Valid XHTML] (http://i.imgur.com/mkhFnmC.mp4).  
 Here are some of my goals :  
 - land a job in web dev
 - learn how to play drums
